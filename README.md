@@ -1,4 +1,5 @@
-<link href="https://github.com/rennygalindez/merko/raw/main/merko.css" rel="stylesheet">
+<!-- Merko theme -->
+<link href="https://github.com/civarry/merko/raw/main/merko.css" rel="stylesheet">
 
 [![Civarry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=civarry&hide=html&theme=merko&show_icons=true&layout=compact&langs_count=10&card_width=1000)](https://github.com/civarry/)
 
