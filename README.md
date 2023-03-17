@@ -1,8 +1,6 @@
 [![Civarry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=civarry&hide=html&theme=merko&show_icons=true&layout=compact&langs_count=10&card_width=1000)](https://github.com/civarry/)
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=civarry&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=civarry&show_icons=true&layout=compact&langs_count=10&card_width=1000)
 
 
 <!---
