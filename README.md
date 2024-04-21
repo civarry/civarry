@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civarry&layout=compact&langs_count=10&card_width=800&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=civarry&color=brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civarry&layout=compact&langs_count=10&card_width=800&theme=tokyonight&style=for-the-badge)
